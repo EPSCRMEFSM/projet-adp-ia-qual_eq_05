@@ -3,18 +3,18 @@
 # Projet ADP 2026
 
 ## Identité du groupe
-- **Code équipe** : À compléter (ex : COLL1_EQ_03)
-- **Code projet** : À compléter (ex : DI-BKT)
-- **APS** : À compléter
-- **Famille** : DI / ES / EN
+- **Code équipe** : QUAL_EQ_05
+- **Code projet** : DI-ACR
+- **APS** : ACROGYM
+- **Famille** : GYM
 
 ## Membres
 | Prénom NOM | Rôle |
 |---|---|
-| | Référent terrain |
-| | Référent outil |
-| | Référent IA |
-| | Référent pédagogique |
+|HAJAR IZNHAOUR | Référent terrain |
+|ALJIHAD YOUNES | Référent outil |
+|ALI IBRAHIM SBIRA | Référent IA |
+|MAHA MOUKHTARI | Référent pédagogique |
 
 ## Structure du dépôt
 - `terrain/` → fiche terrain, observables, référentiel didactique
