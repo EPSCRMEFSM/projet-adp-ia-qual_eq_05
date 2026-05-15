@@ -14,7 +14,7 @@
 |HAJAR IZNHAOUR | Référent terrain |
 |ALJIHAD YOUNES | Référent outil |
 |ALI IBRAHIM SBIRA | Référent IA |
-|MAHA MOUKHTARI | Référent pédagogique |
+|MAHA MOKHTARI | Référent pédagogique |
 
 ## Structure du dépôt
 - `terrain/` → fiche terrain, observables, référentiel didactique
